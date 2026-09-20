@@ -1,0 +1,6 @@
+{
+  "name": "Krom Güncelleyici",
+  "description": "Chromium çatalları (Thorium, Cromite, Titanium) ve IronFox depolarından günlük APK takip, indirme ve kurulum yöneticisi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
